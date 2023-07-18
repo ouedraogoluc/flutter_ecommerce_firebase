@@ -1,0 +1,12 @@
+const appname = "beogram";
+const appversion = "Version 1.0.0";
+const credits = "@beotech Devs";
+const email = "Email";
+const emailHint = "admin@gmail.com";
+const password="Password";
+const passwordHint="********";
+const forgetPassword="Mot de passe oublier?";
+const login ="Se connecter";
+const signup="S'inscrire";
+const createNewAccount="Ou creer un nouveau compte";
+const loginWith="Se connecter avec";
